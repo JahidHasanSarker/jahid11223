@@ -10,7 +10,7 @@ Skills: REACT / JS / HTML / CSS/ NODE
 
 - 🌱 I’m currently learning Node js & MongoDB 
 - 👯 I’m looking to collaborate on github 
-- 🤔 I’m looking for help with an internship to upgrade my skilss 
+- 👀 I’m looking for an internship to upgrade my skilss 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: jahidhasan1695@gmail.com 
 - ⚡ Fun fact: I love to watch Cartoons. 
