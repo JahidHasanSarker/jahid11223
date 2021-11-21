@@ -1,6 +1,6 @@
 ![Frontend Developer](http://www.satvikinfotech.com/wp-content/uploads/2014/04/front-end-developer-satvik.jpg)
 
-### Hi there 👋, I'm Jahid Hasan
+### I'm Jahid Hasan
 #### Frontend Developer
 
 
