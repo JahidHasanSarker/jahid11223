@@ -1,6 +1,8 @@
+![Frontend Developer](http://www.satvikinfotech.com/wp-content/uploads/2014/04/front-end-developer-satvik.jpg)
+
 ### Hi there 👋, I'm Jahid Hasan
 #### Frontend Developer
-![Frontend Developer](http://www.satvikinfotech.com/wp-content/uploads/2014/04/front-end-developer-satvik.jpg)
+
 
 I'm a Frontend Developer, who is passionate about making error-free website with 100% client satisfaction. I have passion for learning & sharing with others publicly as possible. I love to solve real-world problems. I am strategic, goal oriented, and always work with an and goal in mind. I enjoy working with React js, Javascript, as well as Node js & MongoDB. 
 
